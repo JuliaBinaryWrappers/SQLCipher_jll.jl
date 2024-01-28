@@ -1,72 +1,72 @@
 [[SQLCipher]]
 arch = "aarch64"
-git-tree-sha1 = "13d1d74caa0b118ccc1ed5018a1c813d65c644fa"
+git-tree-sha1 = "ae51b8b0e28ae4f9a0c2f3aa56ae89ead82e2dc8"
 os = "macos"
 
     [[SQLCipher.download]]
-    sha256 = "3955fd790b064923ce502a0fc11248e1aff899274a92b710cb6ebf11be9def92"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "da2ac6739ca70c6cf1a9ebf5c0e26887162272734c56689d47704b719bee6fc8"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.aarch64-apple-darwin.tar.gz"
 [[SQLCipher]]
 arch = "aarch64"
-git-tree-sha1 = "005e7ba8f103451d42804cd49b09e56e07f0a1b9"
+git-tree-sha1 = "2d7e3c9aa8f855bd374cec477aa89aa792696dfc"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "f94033f40d09699a516d991c41ef81fd35cbe21ea187ee9d7cbd7e5b1f4ab54a"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "caae92f29213419767a0052e1095c45793fa560b8b665aaac9fa4380cf287c5d"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.aarch64-linux-gnu.tar.gz"
 [[SQLCipher]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "03f8825ed01178a397e2565c66942e0971685fc1"
+git-tree-sha1 = "a3009b72d433e8ed534c7e5b1c332d6af679b2bb"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "0b65ed8088247b3f65c641d84d0eb187f74776e4b682ee0655801d743bb94663"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "23cbef5bc0d19b011fdbcdd2dbff02ae955c0bbcb1d6a7b5e6f90e8a5a190bab"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.armv6l-linux-gnueabihf.tar.gz"
 [[SQLCipher]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a5a189ca3da5b13a60ca9b9387d27710f92ce7d4"
+git-tree-sha1 = "cffe80abc1883c969da54f812ee9ab8abefad4f5"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "579ec3020d7d682733f1cec7cc00fb85474f8a408c6a19b17c042ca5d2670f7b"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e1e3f5147ceb67beb950b10efd6310e5a3365400f995f232c0ee8cb87e5e49c3"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.armv7l-linux-gnueabihf.tar.gz"
 [[SQLCipher]]
 arch = "i686"
-git-tree-sha1 = "5f1498ef100c22e45dbe3fbcf8d8b677b70ec17b"
+git-tree-sha1 = "903fe9d854741053dd147be0901d333ec3c04978"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "20a4d1b21043c01f7303595f909c29794ef199f1bdd1caf751856e1b44d9f655"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "09dfc27d17f317ba32c0313e6cc3cd2602ecbb5bf0be4133f405490566c390dc"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.i686-linux-gnu.tar.gz"
 [[SQLCipher]]
 arch = "powerpc64le"
-git-tree-sha1 = "970219fb81334c357734ac73839767c26bf71ee5"
+git-tree-sha1 = "7c36aeec73cb97eeb0a37a984bee2b8da3fda381"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "29f613bd932f45ca765a8fb9425f2a58e02983eca235b29d60d614c6c78b7c40"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "962f5323b487819090a41e3bf12d58eb24c35968346c57e05711456f48ceabb0"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.powerpc64le-linux-gnu.tar.gz"
 [[SQLCipher]]
 arch = "x86_64"
-git-tree-sha1 = "4b75af74bc3d3ac08bb9008f291486cbfcc7bd2e"
+git-tree-sha1 = "bfe1a8e65aef717000ec21e88ad98514f5c85351"
 os = "macos"
 
     [[SQLCipher.download]]
-    sha256 = "712a85c6798f8a4c0f87dd89fbdb85eb32cc6325ea6a4b901ca3a506b485a8e5"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "67da256015fa44c0d21f2776989eac980699335e35e07d6501ffd92be09da289"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.x86_64-apple-darwin.tar.gz"
 [[SQLCipher]]
 arch = "x86_64"
-git-tree-sha1 = "37ffb20e4e57a6c54ecc68ac28fd2eb5a0b9ff15"
+git-tree-sha1 = "0d72707d99c8914b5974b679fc7c47ac2aade0e6"
 libc = "glibc"
 os = "linux"
 
     [[SQLCipher.download]]
-    sha256 = "b2de541ae12e705b49a64cb5414f16735b7f9ec990aefa16abfb298eba3690a0"
-    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.0+0/SQLCipher.v4.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "df828d7086e6145bc35eb91ebbbe18286e77278c400ea73073cdd5c9ee9038c0"
+    url = "https://github.com/JuliaBinaryWrappers/SQLCipher_jll.jl/releases/download/SQLCipher-v4.5.6+0/SQLCipher.v4.5.6.x86_64-linux-gnu.tar.gz"
